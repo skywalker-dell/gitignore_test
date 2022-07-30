@@ -2,7 +2,7 @@
 # bin/
 folder/
 bin_exist_file/
-/bin
+# /bin
 /*.c
 debug/*.obj
 **/foo
