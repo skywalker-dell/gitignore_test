@@ -10,3 +10,4 @@ a/**/b: 忽略a/b, a/x/b, a/x/y/b等
 !/bin/run.sh: 不忽略 bin 目录下的 run.sh 文件
 *.log: 忽略所有 .log 文件
 config.php: 忽略当前路径的 config.php 文件
+                                                                                                                                                               
