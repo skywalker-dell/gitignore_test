@@ -6,5 +6,10 @@ debug/*.obj
 !/bin/run.sh
 *.log
 !ignore.log
+# test/
 test/*
 !test/a.txt
+bin/
+ooo
+file/
+!file/a.txt
