@@ -1,5 +1,6 @@
 !/bin/run.sh
 bin/
+folder/
 bin_exist_file/
 /bin
 /*.c
