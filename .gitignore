@@ -1,5 +1,6 @@
 bin/
 !/bin/a.txt
+!/bin/b.txt
 folder/
 bin_exist_file/
 # /bin
