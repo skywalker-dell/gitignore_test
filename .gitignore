@@ -1,3 +1,4 @@
+!/bin/run.sh
 bin/
 bin_exist_file/
 /bin
@@ -7,4 +8,3 @@ debug/*.obj
 a/**/b
 !/bin/run.sh
 *.log
-config.phpgit
